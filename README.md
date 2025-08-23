@@ -1,4 +1,4 @@
-# urban-threads-landing-page
+# Urban Threads - Landing Page
 A simple clothing store landing page built with HTML and CSS.
 
 📂 Features
